@@ -1,0 +1,10 @@
+{
+  "type": "app",
+  "name": "Comentario",
+  "version": "1.0.0",
+  "description": "",
+  "title": "Comentario",
+  "entryPoints": {
+    "app": "index.html"
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/app.3a3247e1.chunk.css","mappings":"AAAA,eAEE,YAAa,CADb,iBAEF,CAEA,cAGE,wBAAyB,CADzB,WAAY,CADZ,SAGF","sources":["D2App/App.css"],"sourcesContent":[".app-container {\r\n  text-align: center;\r\n  padding: 20px;\r\n}\r\n\r\n.custom-table {\r\n  width: 80%;\r\n  margin: auto;\r\n  border-collapse: collapse;\r\n}\r\n"],"names":[],"sourceRoot":""}

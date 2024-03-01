@@ -1,0 +1,22 @@
+{
+  "appType": "APP",
+  "short_name": "Comentario",
+  "name": "Comentario",
+  "description": "",
+  "version": "1.0.0",
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "icons": {
+    "48": "dhis2-app-icon.png"
+  },
+  "manifest_generated_at": "Thu Feb 29 2024 16:51:51 GMT+0200 (Central Africa Time)",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "scope": "."
+}
